@@ -6,8 +6,8 @@ In this assignment, you will be learning the basics of git. Git, as you learned 
  
 ## When is this due?
 
-This homework will be due on Friday, 10/21 at 11:59 PM Eastern Time.
- 
+Refer to BrightSpace for the assignment due date.
+
 ## When will I know I'm done?
 
 Advice: read the steps!!
