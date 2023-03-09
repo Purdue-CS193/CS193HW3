@@ -28,7 +28,7 @@ Now if you run `ls`, you should see a directory called `homework-3-<your GitHub 
 
 One of the most frequently used git commands is `git status`. Any time you are inside a git repository (i.e. your current directory or one of its parents is an initialized git repository), you can run `git status` to see precisely what state your repository is in. 
  
-Make sure you are in the Homework 4 directory and try running `git status`. The output of this command tells you many things. 
+Make sure you are in the Homework 3 directory and try running `git status`. The output of this command tells you many things. 
  
 The first line `On branch master` tells you that you are currently working from the `master` branch of the repository (more on branches later).
  
@@ -38,7 +38,7 @@ The third line `nothing to commit, working tree clean` tells you that you have n
  
 ## Step 3: Sync Local with Remote. TODOs exist in this step!
 
-It is important to understand how useful git and GitHub can be for collaboration. For a moment, let's pretend that you and someone else are both working on solving Homework 3 together. We will **simulate** someone else pushing changes to Homework 4 while you are working on it locally. To do this, make sure you have already cloned the Homework 3 repo onto your local machine. Next, in your web browser, navigate to your Homework 3 repository on GitHub. 
+It is important to understand how useful git and GitHub can be for collaboration. For a moment, let's pretend that you and someone else are both working on solving Homework 3 together. We will **simulate** someone else pushing changes to Homework 3 while you are working on it locally. To do this, make sure you have already cloned the Homework 3 repo onto your local machine. Next, in your web browser, navigate to your Homework 3 repository on GitHub. 
  
 ### TODO 2
 
